@@ -12,7 +12,7 @@ import java.util.Map;
 
 @Controller
 public class EmployeeController {
-    private Map<Long, Employee> employeeMap = new HashMap<>();
+    private final Map<Long, Employee> employeeMap = new HashMap<>();
 
     @GetMapping("/employeeform")
     public String empForm() {
