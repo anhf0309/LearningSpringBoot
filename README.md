@@ -4,3 +4,4 @@
 4) Exercise Four: Discuss Spring forms and data binding to a controller then have a look at some of the main annotations in Spring Boot (e.g., @RestController, @ModelAttribute, @PostMapping, @GetMapping).
 5) Exercise Five: Demonstrate how to use @RequestParam annotation. Learners will be able to utilize the @RequestParam annotation.
 6) Exercise Six: Demonstrate how to use Spring's @PathVariable annotation. Learners will also explore the various ways to effectively use the @PathVariable annotation to suit different use cases, such as optional parameters and dealing with default values.
+7) Exercise Seven: Demonstrate the how to use the @SessionAttributes and @Modelattributes annotations in Spring. Learners will be able to use @SessionAttributes and @Modelattributes annotations.
