@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("home")
 public class MyController {
-    @RequestMapping({"/login"})   // either type '/' or index
+    @RequestMapping({"/login"})
     public String showlogin()
     {
         return "inboxpage";
