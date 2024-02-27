@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ExerciseThree" />
         <module name="ExerciseOne_Rest" />
+        <module name="ExerciseSix" />
         <module name="ExerciseFive" />
         <module name="ExerciseTwo" />
         <module name="ExerciseFour" />
@@ -24,6 +25,7 @@
       <module name="ExerciseFive" options="-parameters" />
       <module name="ExerciseFour" options="-parameters" />
       <module name="ExerciseOne_Rest" options="-parameters" />
+      <module name="ExerciseSix" options="-parameters" />
       <module name="ExerciseThree" options="-parameters" />
       <module name="ExerciseTwo" options="-parameters" />
     </option>
