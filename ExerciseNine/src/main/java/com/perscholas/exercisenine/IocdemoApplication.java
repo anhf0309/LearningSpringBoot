@@ -1,7 +1,6 @@
 package com.perscholas.exercisenine;
 
 import com.perscholas.exercisenine.myServices.Coach;
-import com.perscholas.exercisenine.myServices.TennisCoach;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
