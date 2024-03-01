@@ -1,15 +1,19 @@
 package com.perscholas.exercisenine.myServices;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
 public class TennisCoach implements Coach {
-    private FortuneServices fortuneService;
-    public TennisCoach(){
-    }
 
     @Autowired
+    @Qualifier("randomFortuneService")
+    private FortuneServices fortuneService;
+
+    public TennisCoach() {
+
+    }
     public TennisCoach(FortuneServices theFortuneService) {
         fortuneService = theFortuneService;
     }
