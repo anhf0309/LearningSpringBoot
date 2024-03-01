@@ -6,3 +6,4 @@
 6) Exercise Six: Demonstrate how to use Spring's @PathVariable annotation. Learners will also explore the various ways to effectively use the @PathVariable annotation to suit different use cases, such as optional parameters and dealing with default values.
 7) Exercise Seven: Demonstrate the how to use the @SessionAttributes and @Modelattributes annotations in Spring. Learners will be able to use @SessionAttributes and @Modelattributes annotations.
 8) Exercise Eight: Demonstrate the Spring actuator. Learner will be able to use Spring Boot Actuator in Spring boot applications.
+9) Exercise Nine: A look at how to enable autowiring, as well as the various ways to autowire beans. Afterward, we will talk about resolving bean conflicts using the @Qualifier annotation and potential exception scenarios
