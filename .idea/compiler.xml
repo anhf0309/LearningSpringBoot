@@ -10,6 +10,7 @@
         <module name="ExerciseOne_Rest" />
         <module name="ExerciseFive" />
         <module name="ExerciseTwo" />
+        <module name="ExerciseNine" />
         <module name="ExerciseFour" />
         <module name="ExerciseThree" />
         <module name="ExerciseSix" />
@@ -27,6 +28,7 @@
       <module name="ExerciseEight" options="-parameters" />
       <module name="ExerciseFive" options="-parameters" />
       <module name="ExerciseFour" options="-parameters" />
+      <module name="ExerciseNine" options="-parameters" />
       <module name="ExerciseOne_Rest" options="-parameters" />
       <module name="ExerciseSeven" options="-parameters" />
       <module name="ExerciseSix" options="-parameters" />
